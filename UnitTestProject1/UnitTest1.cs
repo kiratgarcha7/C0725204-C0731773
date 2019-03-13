@@ -9,7 +9,6 @@ namespace BankTests
 {
 
     [TestClass]
-
     public class BankAccountTests
 
     {
