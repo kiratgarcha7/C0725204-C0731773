@@ -94,7 +94,7 @@ namespace BankTests
 
             }
 
-            m_balance += amount;
+            m_balance -= amount;
 
 
 
